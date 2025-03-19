@@ -14,4 +14,4 @@ These two articles suggest us the easy way to create the bootable usb with rufus
  It can skip the privacy settings during installation,which is more efficient.
 
  ## Conclusion
- If you want to install the windows os on one computer,you can choose to create the bootable usb through media creation tool.With rufus,you can create exactly that with your already downloaded copy of the os.
+ If you want to install the windows os one time,it is not needes to choose rufus to create the bootable usb ,you can use the media creation tool.With rufus,you can create exactly that with your already downloaded copy of the os.
