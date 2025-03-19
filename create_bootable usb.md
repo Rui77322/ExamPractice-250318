@@ -7,5 +7,5 @@ These two articles suggest us the easy way to create the bootable usb with rufus
 ### prepare the usb
 ### select the iso file
 ### start the process
-##why rufus is better
+## why rufus is better
 ### It is capable for windows,linux and other operating system.
