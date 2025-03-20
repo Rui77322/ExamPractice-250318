@@ -7,4 +7,9 @@
 
 4.Did you reset your network?
 
-【I attached the link】（https://www.easeus.com/computer-instruction/laptop-wont-connect-to-wifi-but-phone-will.html?srsltid=AfmBOopAZMJcE2PIQGlvqoK-Fxz_c8LufB2B5XT-g4exy_kHowAeD7dt）
+[this is a link](https://www.easeus.com/computer-instruction/laptop-wont-connect-to-wifi-but-phone-will.html?srsltid=AfmBOopAZMJcE2PIQGlvqoK-Fxz_c8LufB2B5XT-g4exy_kHowAeD7dt)
+
+
+[this is the first link](https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide)
+
+[This is the second link](https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
