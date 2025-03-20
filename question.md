@@ -39,6 +39,7 @@ Reboot the Computer
 Contact Your Internet Service Provider
 
 Open Windows Network Diagnostics and Check Your DNS settings
+
 [this is the first link](https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide)
 
 [This is the second link](https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
