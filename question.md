@@ -40,6 +40,16 @@ Contact Your Internet Service Provider
 
 Open Windows Network Diagnostics and Check Your DNS settings
 
-[this is the first link](https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide)
+[the first link](https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide)
 
-[This is the second link](https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
+[the second link](https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
+
+# HOW TO FIX
+If the laptop is unable to connect to Wi-Fi while other devices can, i think there is no problem with router.first we should check the physical connection,make sure disable the airplane mode ,then try the basic restart,such as restart the comuter and reconnect to the network.
+
+After these steps,we need to check the network settings,firewall and antintivirus Settings.we can also reset the network settings.
+
+
+[the first link](https://www.quora.com/Why-wont-my-laptop-connect-to-WiFi-while-other-devices-can-connect-to-Wi-Fi)
+
+[the second link](https://www.asurion.com/connect/tech-tips/laptop-wont-connect-wifi/)
