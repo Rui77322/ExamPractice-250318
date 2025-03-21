@@ -1,0 +1,20 @@
+
+C:\Work>wmic logicaldisk get name
+Name
+C:
+V:
+W:
+
+
+C:\Work>wmic path Win32_VideoController get Name
+Name
+Intel(R) UHD Graphics 770
+
+
+C:\Work>wmic diskdrive get model,name,size
+Model                   Name                Size
+KINGSTON SUV400S37240G  \\.\PHYSICALDRIVE0  240054796800
+PC SN740 NVMe WD 1TB    \\.\PHYSICALDRIVE1  1024203640320
+
+
+C:\Work>
